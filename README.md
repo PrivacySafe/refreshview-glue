@@ -1,12 +1,8 @@
-<div align="center">
-
 # RefreshView Glue
 
 Utility to build Firefox-based browsers such as [RefreshView Browser](https://refreshview.com).
 
 **This is still in a prerelease / prototype phase. Changes will be made, things will be broken**
-
-</div>
 
 ## Installation
 
